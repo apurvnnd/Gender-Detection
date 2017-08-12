@@ -10,4 +10,6 @@ The second file 'gender-detection-oop.py' also uses basic nltk library, importin
 It is done in a more neat manner, using OOPs in python.
 Training and Test set are divided.
 A seperate Training, Test and Error set are also formed for detecting the number of errors during prediction.
+The Prediction is done using the first and last letter,
+and also using the number of occurences of letters of the name of the person.
 Naive Bayes Classifier is also used for the same. 
